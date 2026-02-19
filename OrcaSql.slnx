@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="src/OrcaSql.Core.Tests/OrcaSql.Core.Tests.csproj" />
+  <Project Path="src/OrcaSql.Core/OrcaSql.Core.csproj" />
+  <Project Path="src/OrcaSql.Framework.Tests/OrcaSql.Framework.Tests.csproj" />
+  <Project Path="src/OrcaSql.Framework/OrcaSql.Framework.csproj" />
+  <Project Path="src/OrcaSql.OSMS/OrcaSql.OSMS.csproj" />
+  <Project Path="src/OrcaSql.RawCore.Tests/OrcaSql.RawCore.Tests.csproj" />
+  <Project Path="src/OrcaSql.RawCore/OrcaSql.RawCore.csproj" />
+  <Project Path="src/OrcaSql.Scripting/OrcaSql.Scripting.csproj" />
+  <Project Path="src/OrcaSql.SQLConnectionDialog/OrcaSql.SQLConnectionDialog.csproj" />
+</Solution>
